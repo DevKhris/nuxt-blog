@@ -1,0 +1,26 @@
+.container {
+	-webkit-transition: all .5s ease-in-out;
+	   -moz-transition: all .5s ease-in-out;
+	    -ms-transition: all .5s ease-in-out;
+	     -o-transition: all .5s ease-in-out;
+	        transition: all .5s ease-in-out;
+}
+
+.page-enter-active, .page-leave-active {
+	-webkit-transition: opacity .5s;
+	   -moz-transition: opacity .5s;
+	    -ms-transition: opacity .5s;
+	     -o-transition: opacity .5s;
+	        transition: opacity .5s;
+}
+
+.page-enter, .page-leave-active {
+	opacity: 0;
+}
+.page-enter-active, .page-leave {
+	-webkit-transition: all .5s ease-in-out;
+	   -moz-transition: all .5s ease-in-out;
+	    -ms-transition: all .5s ease-in-out;
+	     -o-transition: all .5s ease-in-out;
+	        transition: all .5s ease-in-out;
+}

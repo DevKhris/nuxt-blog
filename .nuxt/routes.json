@@ -1,0 +1,16 @@
+[
+  {
+    "name": "posts-id",
+    "path": "/posts/:id?",
+    "component": "G:\\\\Code\\\\javascript\\\\nuxtwebsite\\\\pages\\\\posts\\\\_id.vue",
+    "chunkName": "pages/posts/_id",
+    "_name": "_685691ee"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "G:\\\\Code\\\\javascript\\\\nuxtwebsite\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_18aa907b"
+  }
+]
